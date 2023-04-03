@@ -1,4 +1,4 @@
-# Mall-Cloud
+# Mall
 
 本项目是一个基于 Spring Boot 的生鲜电商项目。
 
